@@ -2,7 +2,7 @@
 
 [![rand](https://github.com/emit-rs/emit_rand/actions/workflows/rand.yml/badge.svg)](https://github.com/emit-rs/emit_rand/actions/workflows/rand.yml)
 
-[Current docs](https://docs.rs/emit_rand/0.9.0/emit_rand/index.html)
+[Current docs](https://docs.rs/emit_rand/0.9.1/emit_rand/index.html)
 
 An implementation of `emit::Rng` using a specific version of the `rand` library.
 
