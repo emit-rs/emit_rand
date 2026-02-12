@@ -41,7 +41,7 @@ fn main() {
 #![cfg_attr(not(test), no_std)]
 
 use emit_core::{rng::Rng, runtime::InternalRng};
-use rand::{Rng as _, RngCore};
+use rand::{Rng as _, RngExt as _};
 
 /**
 Create a new source of randomness based on [`RandRng`].
